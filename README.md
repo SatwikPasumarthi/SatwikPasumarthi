@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 PYTHON / JS / HTML / CSS/ C /C++/ Poster Design /Jekyll /Reactjs /Bootstrap / Tensorflow /
 <br><br>
 
-![Reha's Github Stats](https://github-readme-stats.vercel.app/api?username=Rehasree&theme=chartreuse-dark&show_icons=true&hide_border=false&include_all_commits=true&show_owner=true&count_private=true&hide_rank=false&cache_seconds=86000)
+![Reha's Github Stats](https://github-readme-stats.vercel.app/api?username=SatwikPasumarthi&theme=chartreuse-dark&show_icons=true&hide_border=false&include_all_commits=true&show_owner=true&count_private=true&hide_rank=false&cache_seconds=86000)
 <br>
 
 ![Profile views](https://gpvc.arturio.dev/Rehasree)  
