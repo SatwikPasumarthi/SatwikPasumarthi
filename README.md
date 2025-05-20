@@ -3,8 +3,8 @@
 
 ## I'm a Student and Developer!!
 
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Web Development and Machine Learning
+- 👀 I’m interested in Artificial Intelligence and Full stack Development
+- 🌱 I’m currently learning Automation and System Designing
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 My Goals: Want to be a ML engineer
 - ⚡ Fun fact: I am a gamer
